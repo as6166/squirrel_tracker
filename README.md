@@ -26,13 +26,13 @@ python manage.py export_squirrel_data /path/to/file.csv
 
 
 1. Map        
-[Map View](https://my-project1-254718.appspot.com/map/) is a view that shows a map that displays the location of the squirrel sightings on an OpenStreets map.   
+Map View  is a view that shows a map that displays the location of the squirrel sightings on an OpenStreets map.   
 >Located at: /map   
 Method: GET   
 Use the [leaflet](https://leafletjs.com/) library for plotting   
 
 2. Sightings 
-[List View](https://my-project1-254718.appspot.com/sightings/) is a view that lists all squirrel sightings with links to edit and add sightings   
+List View is a view that lists all squirrel sightings with links to edit and add sightings   
 >Located at: /sightings   
 	Method: GET  
   
