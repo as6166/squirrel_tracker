@@ -30,9 +30,14 @@ python manage.py export_squirrel_data /path/to/file.csv
 >Located at: /map   
 Method: GET   
 Use the [leaflet](https://leafletjs.com/) library for plotting   
-2. Sightings 
 
-3. Stats of squirrels
+2. Sightings 
+[List View](https://my-project1-254718.appspot.com/sightings/) is a view that lists all squirrel sightings with links to edit and add sightings   
+>Located at: /sightings   
+	Method: GET  
+  
+3. Update sighting
+
 
 4. Add squirrels
 
